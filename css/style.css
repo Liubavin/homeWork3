@@ -62,7 +62,7 @@ a {
     padding: 0 8px 0 9px;
 }
 .wr img {
-     box-shadow: 0 0 0 2px #aaaaaa;
+     box-shadow: 0 0 0 2px #aaaaaa, 0 0 0 -2px #010101;
      border-radius: 1px;
  }
 .wr img:hover {
@@ -80,7 +80,7 @@ a {
     margin: 251px 0 0 0;
 }
 
-.second.wr p {
+.second .wr p {
     margin: 0 0 0 37%;
     font-size: 18px;
     color: #c0c0c0;
@@ -88,7 +88,7 @@ a {
 
 .footer {
     color: #c0c0c0;
-    margin: 382px 0 0 322px;
+    margin: 379px 0 0 322px;
     position: absolute;
     font-size: 9pt;
 }
