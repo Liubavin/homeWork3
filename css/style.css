@@ -18,24 +18,24 @@ a {
 }
 
 .logo1 img {
-    margin: 57px 0 0 192px;
+    margin: 57px 0 0 209px;
     position: absolute;
 }
 
 .logo2 img {
-    margin: 132px 0 0 54px;
+    margin: 132px 0 0 70px;
     position: absolute;
 }
 
 .logo1 p {
-    font-size: 8pt;
+    font-size: 9pt;
     font-family: Tahoma Regular;
     position: absolute;
-    margin: 170px 0 0 138px;
+    margin: 175px 0 0 152px;
     color: #c0c0c0;
 }
 .contact {
-    margin: 148px 0 0 783px;
+    margin: 152px 0 0 783px;
     color: white;
     position: absolute;
     line-height: 9px;
@@ -53,16 +53,16 @@ a {
 }
 
 .main {
-    margin: 208px 0 0 72px;
+    margin: 209px 0 0 61px;
     position: absolute;
 }
 
 .wr {
     float: left;
-    padding: 0 10px 0 10px;
+    padding: 0 8px 0 9px;
 }
 .wr img {
-     box-shadow: 0 0 0 3px #aaaaaa;
+     box-shadow: 0 0 0 2px #aaaaaa;
      border-radius: 1px;
  }
 .wr img:hover {
@@ -70,23 +70,25 @@ a {
     border-radius: 1px;
 }
 .wr p {
-    margin: 0 0 0 43%;
-    font-size: 22px;
+    margin: -2px 0 0 43%;
+    font-size: 18px;
     color: #c0c0c0;
 }
 
 
 .second {
-    margin: 246px 0 0 0;
+    margin: 251px 0 0 0;
 }
 
-.second .wr p {
+.second.wr p {
     margin: 0 0 0 37%;
+    font-size: 18px;
+    color: #c0c0c0;
 }
 
 .footer {
     color: #c0c0c0;
-    margin: 386px 0 0 340px;
+    margin: 382px 0 0 322px;
     position: absolute;
-    font-size: 10pt;
+    font-size: 9pt;
 }
